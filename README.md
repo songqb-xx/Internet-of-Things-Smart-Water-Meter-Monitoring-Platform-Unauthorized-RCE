@@ -6,9 +6,10 @@ The IoT smart water meter monitoring platform affiliated to Shandong Kede Electr
 title = "物联网智能水表监管平台"
 ```
 
-# VERSION
+# info
 ```
-V1.0
+CVE-ID: CVE-2025-63624
+affected version: V1.0
 ```
 
 # Official website of Shandong Kede Electronics Co., Ltd
