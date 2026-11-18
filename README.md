@@ -12,6 +12,11 @@ CVE-ID: CVE-2025-63624
 affected version: V1.0
 ```
 
+# Discovering the team
+```
+hndky
+```
+
 # Official website of Shandong Kede Electronics Co., Ltd
 domain:http://www.sdkede.com/
 <img width="1735" height="885" alt="图片" src="https://github.com/user-attachments/assets/ae425449-8955-4bf7-9ae5-8fb4bc987391" />
